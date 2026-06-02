@@ -34,7 +34,7 @@ Separate Git repo for concept practice and Git familiarity. Not pyfinlib. Detail
 
 | Item | Status |
 |------|--------|
-| Repo created | ✗ |
+| Repo created | ✓ |
 
 ---
 
